@@ -104,7 +104,11 @@ const Home = () => {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img src="https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=800&auto=format&fit=crop" alt="Studio Console" className="rounded-2xl object-cover h-64 w-full shadow-2xl" />
-              <img src="/mic.png" alt="Microphone" className="rounded-2xl object-cover h-64 w-full shadow-2xl mt-8"/>
+              <img
+  src="/mic.png"
+  alt="Microphone"
+  className="rounded-2xl object-cover h-64 w-full shadow-2xl mt-8"
+/>
             </div>
           </div>
         </div>
